@@ -1,0 +1,24 @@
+iniciando estudo
+
+Instalando o git Ubuntu Linux
+
+->sudo apt-get install git git-gui gitk
+
+Configuração Git
+
+->git config --global user.name "nome de usuario"
+->git config --global user.email "email de usuario"
+
+
+->git config --global color.ui true
+->git config --global color.diff true
+->git config --global color.status true
+->git config --global color.branch true
+->git config --global color.interactive true
+
+
+Criando um repositório Git
+
+-> mkdir repositorio
+-> cd repositorio
+-> git init
