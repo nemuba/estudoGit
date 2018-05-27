@@ -22,3 +22,11 @@ Criando um repositório Git
 -> mkdir repositorio
 -> cd repositorio
 -> git init
+
+Verificando status do repositorio
+
+->git status
+
+adicionando arquivos para o repositorio
+
+->git add .
